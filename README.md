@@ -1,2 +1,2 @@
 # CarrersBCN
-Codi estudi carrers de Barcelona
+Codi de l'estudi dels carrers de Barcelona
