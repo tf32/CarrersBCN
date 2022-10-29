@@ -1,2 +1,2 @@
 # CarrersBCN
-Codi de l'estudi dels carrers de Barcelona
+Codi de l'estudi dels carrers de Barcelona python i R.
